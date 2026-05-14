@@ -12,7 +12,6 @@ La residencia profesional en educación superior es una estrategia que permite a
   - 54% de residencias en sector privado, 46% en sector público.
   - 11% de alumnos realizan residencias fuera del Estado.
   - 66% de proyectos se relacionan con aplicaciones Web, móviles y de escritorio.
-
-- **Palabras más frecuentes en los objetivos**: desarrollar, sistema, Web, diseñar, realizar, gestión, integral, plataforma, control, móvil, aplicación, llevar.
+  - **Palabras más frecuentes en los objetivos**: desarrollar, sistema, Web, diseñar, realizar, gestión, integral, plataforma, control, móvil, aplicación, llevar.
 
 - **Conclusión**: los proyectos buscan principalmente implementar sistemas de control y gestión en empresas e instituciones.
