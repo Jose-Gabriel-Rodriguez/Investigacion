@@ -2,11 +2,11 @@
 
 Python es un lenguaje de programación de propósito general, multiplataforma y orientado a objetos. Aunque no fue creado para análisis de datos, su amplio ecosistema de librerías lo ha convertido en una herramienta destacada para el análisis y visualización de grandes conjuntos de datos.
 
-Aplicación en el estudio: se utilizó Python para analizar la base de datos de pruebas de COVID‑19 publicada por la Dirección General de Epidemiología de la Secretaría de Salud.
+**Aplicación en el estudio**: se utilizó Python para analizar la base de datos de pruebas de COVID‑19 publicada por la Dirección General de Epidemiología de la Secretaría de Salud.
 
-Objetivo: desarrollar un análisis estadístico de los datos de COVID‑19 en México con Python, evaluando su viabilidad como alternativa a otras herramientas estadísticas.
+**Objetivo**: desarrollar un análisis estadístico de los datos de COVID‑19 en México con Python, evaluando su viabilidad como alternativa a otras herramientas estadísticas.
 
-Metodología: enfoque cuantitativo, descriptivo, utilizando datos secundarios como fuente.
+**Metodología**: enfoque cuantitativo, descriptivo, utilizando datos secundarios como fuente.
 
 **Resultados principales**:
 - El uso de Python para análisis de datos ha crecido en diversos sectores y áreas de aplicación.
