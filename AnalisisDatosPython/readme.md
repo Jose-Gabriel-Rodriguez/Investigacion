@@ -1,5 +1,7 @@
 ![image](https://github.com/JoseGabriel-ITD/Probabilidad-y-Estadistica/blob/main/Cintilla2004.png?raw=true)
 
+# **Uso de Python para el análisis de datos aplicado en la investigación**
+
 Python es un lenguaje de programación de propósito general, multiplataforma y orientado a objetos. Aunque no fue creado para análisis de datos, su amplio ecosistema de librerías lo ha convertido en una herramienta destacada para el análisis y visualización de grandes conjuntos de datos.
 
 **Aplicación en el estudio**: se utilizó Python para analizar la base de datos de pruebas de COVID‑19 publicada por la Dirección General de Epidemiología de la Secretaría de Salud.
